@@ -1,4 +1,4 @@
-# coding: cp866
+# coding: cp1251
 import random
 
 
