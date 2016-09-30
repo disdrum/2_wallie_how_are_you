@@ -1,3 +1,4 @@
+# coding: cp866
 import random
 
 
